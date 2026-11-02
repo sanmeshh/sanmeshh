@@ -1,10 +1,7 @@
-
 <div align="center">
-
-  <h2>🐤 Live Growing Bird</h2>
-
-  <img src="./assets/bird.svg" width="100%" alt="My growing yellow bird in a forest"/>
-
-  <p>Every contribution helps the little bird grow! 🌱</p>
-
+  <h2>🐤Pixelated Bird in Pixelated Forest</h2>
+  <img src="assets/sanmeshh_growing_bird.gif"
+       width="480"
+       alt="Live pixel bird">
+  <p>Growing one commit at a time 🌱</p>
 </div>
